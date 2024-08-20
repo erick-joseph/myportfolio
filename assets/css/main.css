@@ -949,7 +949,7 @@ background-image: linear-gradient(rgba(193, 235, 255, 0.76), rgba(243, 243, 243,
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
-#techservices {
+/*#techservices {
   background-image: url(/assets/img/tech.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -958,7 +958,7 @@ background-image: linear-gradient(rgba(193, 235, 255, 0.76), rgba(243, 243, 243,
 }
 #techservices h2 {
   color :#ffff;
-}
+}*/
 .services .service-item {
   background-color: var(--surface-color);
   box-shadow: 0px 5px 90px 0px rgba(0, 0, 0, 0.1);
